@@ -17,11 +17,11 @@ In order to use Apple Pay on a real device, you must configure an Apple Pay Merc
 
 1. Sign in to your iOS Developer Center and create two Apple Pay Merchant IDs, one for staging and another for production.
 
-2. Contact our support, support@print.io, and we will provide you CSR (certificate signing request) files for staging and production.
+2. Contact our mobile product manager, tobias@print.io, and he will provide you CSR (certificate signing request) files for staging and production.
 
 3. Generate a new Apple Pay Certificate in Apple's developer portal by uploading the CSR files  we provide
 
-4. Download the new Apple Pay Certificate, which you just generated, and send it back to us, support@print.io.
+4. Download the new Apple Pay Certificate, which you just generated, and send it back to us, tobias@print.io.
 
 5. We will inform you when your merchant ID is active for using Apple Pay.
 
